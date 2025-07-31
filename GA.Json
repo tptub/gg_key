@@ -1,9 +1,14 @@
 {
   "accounts": [
     {
-      "u": "UGOLEM",
-      "b": "bgdadjwdlshdsajkeawsdshadwkjafsdxsalkdhsd",
-      "t": "2025-08-01T13:45:00Z
+      "u": "myusername",
+      "b": "mypassword",
+      "t": "2025-07-31T12:00:00Z"
+    },
+    {
+      "u": "test",
+      "b": "123",
+      "t": "2026-01-01T00:00:00Z"
     }
   ]
 }
